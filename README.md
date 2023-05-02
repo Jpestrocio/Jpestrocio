@@ -2,7 +2,7 @@
 - 👀 I’m interested in Power Trading 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on modelling 
-- 📫 How to reach me jpestrocio@hotmail.com
+- 📫 How to reach me LinkedIn 
 
 <!---
 Jpestrocio/Jpestrocio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
